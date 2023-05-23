@@ -1,0 +1,13 @@
+
+## Student performance Indicator project
+
+
+# Steps followed and their significance
+
+1. Setup the GitHub repository
+   a) new environment
+   b) setup.py  - it will be responsible for creating my machine learning application as a package. If we want any folder 
+                  to be found as package, then we need to create a init file inside the folder
+   c) requirements.txt
+
+2. src folder and build the package
